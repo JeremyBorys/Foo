@@ -1,0 +1,3 @@
+/home/runner/Foo/build/CMakeFiles/rebuild_cache.dir
+/home/runner/Foo/build/CMakeFiles/foo.dir
+/home/runner/Foo/build/CMakeFiles/edit_cache.dir
